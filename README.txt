@@ -1,4 +1,4 @@
-Paint App
+Java Sketch
 By: Steven Zhu
 
 ID: 20471572
@@ -18,7 +18,6 @@ File-Save: done
 	
 View-Full Size: done
 	
-View-Fit to Window: not done
 
 
 Tool Palette - all working except:
