@@ -43,9 +43,7 @@ Moving Shapes work - implemented in View.java
 
 Tool restrictions: when a line is selected, the fill tool becomes disabled
 
-Tool Palette reuses code from PaintDemo in java_examples.zip on the CS349 website
-
-
+Tool Palette reuses code from PaintDemo in java_examples.zip
 Overlapped shapes are handled FIFO where the most recent shape is selected in the case of an overlap
 
 Painting overlapped shapes will paint oldest shape -> newest shape
