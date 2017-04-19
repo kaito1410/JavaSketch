@@ -1,8 +1,6 @@
 Java Sketch
 By: Steven Zhu
 
-ID: 20471572
-
 
 Program Description:
 make and then make run to run program
